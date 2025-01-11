@@ -1,4 +1,4 @@
-# VM-UNet
+# DIM-UNet
 This is the official code repository for "DIM-UNet: Enhancing Medical Image Segmentation with Dual-Input Hybrid Attention and State Space Modeling". 
 
 ## Abstract
