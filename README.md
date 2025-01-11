@@ -57,7 +57,7 @@ The .whl files of causal_conv1d and mamba_ssm could be found here. {[Baidu](http
 ## 2. Prepare the pre_trained weights
 - The weights of the pre-trained VMamba could be downloaded [here](https://github.com/MzeroMiko/VMamba)  After that, the pre-trained weights should be stored in './pretrained_weights/'.
 
-## 3. Train the VM-UNet
+## 3. Train the DIM-UNet
 ```bash
 cd DIM-UNet
 python train.py  # Train and test DIM-UNet on the ISIC17 or ISIC18 dataset.
