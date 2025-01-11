@@ -24,8 +24,8 @@ The .whl files of causal_conv1d and mamba_ssm could be found here. {[Baidu](http
 
 ### ISIC datasets
 - The ISIC17 and ISIC18 datasets are split into a 7:3 ratio and can be downloaded from the following official links:
-ISIC2017 dataset: https://challenge.isic-archive.com/data/#2017
-ISIC2018 dataset: https://challenge.isic-archive.com/data/#2018
+ISIC2017 dataset: {[Official Link](https://challenge.isic-archive.com/data/#2017)}
+ISIC2018 dataset: {[Official Link](https://challenge.isic-archive.com/data/#2018)}
 
 - After downloading the datasets, you are supposed to put them into './data/isic17/' and './data/isic18/', and the file format reference is as follows. (take the ISIC17 dataset as an example.)
 - './data/isic17/'
